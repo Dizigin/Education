@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-// Мое решение
+// Мое решение       
 Console.WriteLine(new string('-', 122));
 Console.WriteLine("| {0,-15} | {1,20} | {2,35} | {3,40} |", "Type", "Bytes(s) of memory".PadLeft(0), "Min", "Max");
 Console.WriteLine(new string('-', 122));
